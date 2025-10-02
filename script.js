@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
         li.className = 'task-item';
         li.innerHTML = `
 <span class="task-text">${taskText}</span>
-<div>
+<div class="buttons">
 <button class="complete-btn" onclick="toggleComplete(this)">✓</button>
 <button class="delete-btn" onclick="deleteTask(this)">Usuń</button>
 </div>
