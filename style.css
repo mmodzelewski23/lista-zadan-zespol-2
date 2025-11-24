@@ -93,5 +93,5 @@ button:hover {
 }
 
 .task-item:hover {
-    text-decoration: underline;
+    background-color: #dadadb;
 }
