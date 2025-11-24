@@ -12,4 +12,4 @@ Aby oznaczyć zadanie jako wykonane należy nacisnąć niebieski przycisk z ptas
 ## Usuwanie zadań
 Aby usunąć zadanie naciśnij czerwony przycisk 'Usuń' obok zadania.
 
-> Uwaga! Po odświeżeniu strony zadanie nie zostaną zapisane i zostaną usunięte.
+> Nawet po wyjściu ze strony twoja lista zostanie zapisana! ✅
